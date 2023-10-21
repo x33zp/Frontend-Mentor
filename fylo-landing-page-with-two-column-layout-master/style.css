@@ -127,7 +127,7 @@ nav {
 }
 
 .about {
-    background: url(/images/bg-curve-desktop.svg) no-repeat center;
+    background: url(/images/bg-curve-desktop2.svg) no-repeat center;
     background-size: cover;
     padding-top: 11rem;
     padding-bottom: 7rem;
@@ -444,7 +444,7 @@ button[type="submit"]:hover {
     }
 
     .about {
-        background: url(/images/bg-curve-mobile.svg) no-repeat center;
+        background: url(/images/bg-curve-mobile2.svg) no-repeat center;
         background-size: cover;
         padding-top: 5rem;
         padding-bottom: 5rem;
