@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-cCYXsEhhev)
+- Live Site URL: [Add live site URL here](https://x33zp.github.io/huddle-f_m.github.io/)
 
 ## My process
 
@@ -51,11 +51,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+<!-- - CSS Grid -->
+<!-- - Mobile-first workflow -->
+<!-- - [React](https://reactjs.org/) - JS library -->
+<!-- - [Next.js](https://nextjs.org/) - React framework -->
+<!-- - [Styled Components](https://styled-components.com/) - For styles -->
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
