@@ -11,6 +11,22 @@ const setColorMode = () => {
     }
 }
 
+const checkMode = () => {
+    if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+        lightButton.click();
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        darkButton.click();
+    }
+}
+
+const checkModeChange = () => {
+    window.matchMedia('(prefers-color-scheme: dark)')
+        .addEventListener('change', () => {
+            checkMode();
+        })
+}
+
+
 const setDarkMode = () => {
     document.querySelector('body').classList = 'dark';
 }
@@ -20,6 +36,7 @@ const setLightMode = () => {
 }
 
 setColorMode();
+checkModeChange();
 
 const radioButtons = document.querySelectorAll('.toggle__wrapper input');
 radioButtons.forEach(button => {
